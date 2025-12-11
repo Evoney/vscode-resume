@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.syntax-string { color: #ce9178; }
+.syntax-keyword { color: #569cd6; }
+.syntax-control { color: #c586c0; }
+.syntax-function { color: #dcdcaa; }
+.syntax-variable { color: #9cdcfe; }
+.syntax-comment { color: #6a9955; }
+.syntax-number { color: #b5cea8; }
+.syntax-tag { color: #569cd6; }
+.syntax-attr { color: #9cdcfe; }
